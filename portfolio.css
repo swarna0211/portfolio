@@ -15,18 +15,15 @@ body h2{
 
 
 .picintro{
-    justify-content:center;
     text-align: center;
     width:20%;
 }
 
 .picintro .pic{
-    justify-content:center;
     text-align: center;
 }
 
 .picintro .intro{
-    justify-content:center;
     padding-top:50px;
     padding-right: 50px;
     padding-left: 50px;
@@ -396,6 +393,7 @@ body h2{
     pointer-events: none; 
     text-shadow: 0 0 10px #d9a8ff; 
 }
+
 
 
 
