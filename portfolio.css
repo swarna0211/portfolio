@@ -16,11 +16,13 @@ body h2{
 
 .picintro{
     text-align: center;
+    align-items:center;
     width:20%;
 }
 
 .picintro .pic{
     text-align: center;
+    width:100%;
 }
 
 .picintro .intro{
@@ -29,6 +31,7 @@ body h2{
     padding-left: 50px;
     font-size: larger;
     text-align: center;
+    width:100%;
 }
 
 .pic img{
@@ -393,6 +396,7 @@ body h2{
     pointer-events: none; 
     text-shadow: 0 0 10px #d9a8ff; 
 }
+
 
 
 
