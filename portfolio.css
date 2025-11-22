@@ -21,7 +21,7 @@ body h2{
 
 .picintro .pic{
     width: 50%;
-    text-align: left;
+    text-align: center;
 }
 
 .picintro .intro{
@@ -30,6 +30,7 @@ body h2{
     padding-right: 50px;
     padding-left: 50px;
     font-size: larger;
+    text-align: center;
 }
 
 .pic img{
@@ -123,7 +124,6 @@ body h2{
 }
 
 .edu{
-  display: flex;
   justify-content: center;  /* horizontal center */
   align-items: center;      /* vertical center */
   height: 10vh;            /* full screen height */
@@ -395,4 +395,5 @@ body h2{
     pointer-events: none; 
     text-shadow: 0 0 10px #d9a8ff; 
 }
+
 
