@@ -23,7 +23,7 @@ body h2{
 }
 
 .picintro .intro{
-    padding-top:150px;
+    padding-top:50px;
     padding-right: 50px;
     padding-left: 50px;
     font-size: larger;
@@ -127,7 +127,8 @@ body h2{
 }
 
 .edutab1{
-    justify-content: center;
+    margin-left:auto;
+    margin-right:auto;
     border:2px solid rgba(255, 255, 255, 0.8);
     transition:0.3s ease;
     
@@ -139,7 +140,8 @@ body h2{
 }
 
 .edutab2{
-     justify-content: center;
+     margin-left:auto;
+     margin-right:auto;
      border:2px solid rgba(255, 255, 255, 0.8);
      margin:30px;
      height:118px;
@@ -395,6 +397,7 @@ body h2{
     pointer-events: none; 
     text-shadow: 0 0 10px #d9a8ff; 
 }
+
 
 
 
