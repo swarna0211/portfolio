@@ -14,7 +14,6 @@ body h2{
 
 
 .picintro{
-    display: flex;
     margin: 7vh 20vh 0vh 40vh;
     text-align: center;
     width:130vh;
@@ -396,3 +395,4 @@ body h2{
     pointer-events: none; 
     text-shadow: 0 0 10px #d9a8ff; 
 }
+
