@@ -6,6 +6,7 @@
     font-family:'Montserrat',sans-serif ;
     background-color: rgb(0, 8, 28);
     color: aliceblue;
+    display: flex;
 }
 
 body h2{
@@ -392,7 +393,6 @@ body h2{
     pointer-events: none; 
     text-shadow: 0 0 10px #d9a8ff; 
 }
-
 
 
 
